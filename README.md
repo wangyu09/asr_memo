@@ -22,3 +22,5 @@ In [hmm](./hmm), there are some functions to train and query a HMM model.
 1. forward and backward algorithm of a HMM model.    
 2. token passing viterbi decoding algorithm. 
 
+hello
+
